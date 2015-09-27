@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="IMDbTop250Test" project="IMDbAutomationChallenge" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="Tests.IMDbTop250Test" time="55.993">
+    <testcase name="TestDefaultMovieList" classname="Tests.IMDbTop250Test" time="14.233"/>
+    <testcase name="TestWesternGenre" classname="Tests.IMDbTop250Test" time="22.88"/>
+    <testcase name="TestSortingOptions" classname="Tests.IMDbTop250Test" time="18.88"/>
+  </testsuite>
+</testrun>
